@@ -1,3 +1,5 @@
+2024-11-01
+
 # MasochistME - monorepo
 
 This is a monorepo holding projects related to the MasochistME app: website, backend server, bot and SDK.
